@@ -52,7 +52,6 @@
 ||g.cn^
 ||ggoogle.com^
 ||ggpht.com^
-||gmail.com^
 ||gmodules.com^
 ||gogle.com^
 ||gogole.com^
@@ -112,7 +111,6 @@
 ||google.co.za^
 ||google.co.zm^
 ||google.co.zw^
-||google.com^
 ||google.com.af^
 ||google.com.ag^
 ||google.com.ai^

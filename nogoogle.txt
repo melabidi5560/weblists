@@ -2,24 +2,22 @@
 ! Title: No Google
 ! Description: Completely blocks all Google-related domains (including YouTube).
 ! Homepage: https://github.com/nickspaargaren/no-google
-! Last modified: 2023-01-21T16:05:52.769Z
+! Last modified: 2023-06-30T10:53:15.466Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.12
+! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 !
 ! Source name: No Google
 ! Source: https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google-adguard.txt
 !
 ! This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-! Last updated: 2023-01-21
+! Last updated: 2023-05-13
 ! Analytics
 ||adgoogle.net^
-||analytic-google.com^
 ||clickserver.googleads.com^
 ||crashlytics.com^
 ||google-analytics-cn.com^
 ||google-analytics.com^
-||googleadapis-cn.com^
 ||googleadservices-cn.com^
 ||googlehosted.com^
 ||googleoptimize-cn.com^
@@ -27,10 +25,8 @@
 ||googletagmanager-cn.com^
 ||googletagmanager.com^
 ||googletagservices.com^
-||statsgoogle.appsflyer.com^
+||googlevads-cn.com^
 ! Android
-||android.com^
-||com.google.android.maps^
 ||google.com.onion^
 ! Area120
 ||kormo.com^
@@ -45,7 +41,6 @@
 ||app-measurement.com^
 ||chromeenterprise.google^
 ||com.google^
-||domains4google.com^
 ||foofle.com^
 ||forms.gle^
 ||froogle.com^
@@ -125,7 +120,6 @@
 ||google.com.co^
 ||google.com.cu^
 ||google.com.cy^
-||google.com.do^
 ||google.com.ec^
 ||google.com.eg^
 ||google.com.et^
@@ -139,12 +133,10 @@
 ||google.com.kw^
 ||google.com.lb^
 ||google.com.lc^
-||google.com.ly^
 ||google.com.mm^
 ||google.com.mt^
 ||google.com.mx^
 ||google.com.my^
-||google.com.na^
 ||google.com.nf^
 ||google.com.ng^
 ||google.com.ni^
@@ -168,7 +160,7 @@
 ||google.com.tw^
 ||google.com.ua^
 ||google.com.uy^
-||google.com.vc^
+||google.com.ve^
 ||google.com.vn^
 ||google.cv^
 ||google.cz^
@@ -270,11 +262,11 @@
 ||googlecloudpresscorner.com^
 ||googlecode.com^
 ||googlecommerce.com^
+||googledomains.com^
 ||googledrive.com^
 ||googlee.com^
 ||googleearth.com^
 ||googlegroups.com^
-||googlehosts.org^
 ||googlemaps.com^
 ||googlemerchandisestore.com^
 ||googlepagecreator.com^
@@ -284,7 +276,6 @@
 ||googletranslate.com^
 ||googleweblight.com^
 ||googlr.com^
-||goolge.com^
 ||gooogle.com^
 ||gstatic.org^
 ||id.google.au^
@@ -310,10 +301,6 @@
 ||www.google.ir^
 ||www.google.it.ao^
 ! Doubleclick
-||ad.doubleclick.net.iberostar.com^
-||anon.doubleclick.speedera.net^
-||doublecklick.net^
-||doubleclick-net.com^
 ||doubleclick.com^
 ||doubleclick.de^
 ||doubleclick.ne.jp^
@@ -478,8 +465,6 @@
 ||admob.tk^
 ||admob.tw^
 ||admob.vn^
-||admobclick.com^
-||admobsphere.com^
 ||ads.cc^
 ||ads.cc-dt.com^
 ||adsense.com^
@@ -554,7 +539,6 @@
 ||cnaiezv38i.com^
 ||cobrasearch.com^
 ||com-google.site^
-||community.stadia.com^
 ||conversion-pixel.invitemedia.com^
 ||creative.cc-dt.com^
 ||crr0kvp1vv.com^
@@ -624,12 +608,10 @@
 ||google-analytics.bi.owox.com^
 ||google-deckoffice.ml^
 ||google-docs.org^
-||google-en.collectyourprize.club^
 ||google.analytics.com^
 ||google.cx^
 ||google.eu^
 ||google.nf^
-||google.us^
 ||googleadservices.co.uk^
 ||googleadservices.org^
 ||googleadservices.ru^
@@ -638,7 +620,6 @@
 ||googlesciencefair.com^
 ||googlesource.com^
 ||googlesucks.com^
-||googletagservice.com^
 ||googletraveladservices.com^
 ||googleusercontent.com^
 ||googlevideo.com^
@@ -763,14 +744,13 @@
 ||p1xjhr2ipa.com^
 ||p698ke6uwk.com^
 ||p98vobrqwd.com^
+||pagespeedmobilizer.com^
 ||panoramio.com^
-||passwordgoogle.com^
 ||phpjo3qe79.com^
 ||picasa.com^
 ||pki.google^
 ||pkn7e9us0y.com^
 ||pnagolh5kv.com^
-||popads.net^
 ||ppmf4x1f9q.com^
 ||ppn2.com^
 ||puyroytflq.com^
@@ -815,6 +795,7 @@
 ||snz9otyg8z.com^
 ||soif55q623.com^
 ||sp9d9q3o8f.com^
+||stadia.com^
 ||stjp98c3hu.com^
 ||storegoogle.com^
 ||su4xxf9ea6.com^
@@ -935,7 +916,6 @@
 ||gmails.de^
 ||gmailtechnicalsupport.net^
 ||gmailtechsupport.org^
-||googlemail.com^
 ! Pagelink
 ||0utlookmxupdates1.page.link^
 ||0utlookmxverification1.page.link^
@@ -1450,6 +1430,7 @@
 ||goog.le^
 ||youtu.be^
 ||yt.be^
+||withyoutube.com^
 ||youtube-nocookie.com^
 ||youtube-noscript.com^
 ||youtube.be^
@@ -1547,6 +1528,7 @@
 ||ft.nest.com^
 ||ga-api.nest.com^
 ||google-ldap.hq.nest.com^
+||googlenestcommunity.com^
 ||hashsvc.hq.nest.com^
 ||hashsvcq2.hq.nest.com^
 ||home-assistant.df.nest.com^

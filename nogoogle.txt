@@ -1435,7 +1435,6 @@
 ||youtube-noscript.com^
 ||youtube.be^
 ||youtube.co.uk^
-||youtube.com^
 ||youtube.de^
 ||youtube.es^
 ||youtube.fr^

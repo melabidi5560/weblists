@@ -20,7 +20,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-0.0.0.0 www.facebook.com--secure-id-12567747644457.shahed.cc
 0.0.0.0 giphyscripts.s3.amazonaws.com
 0.0.0.0 www.giphyscripts.s3.amazonaws.com
 0.0.0.0 facebook-web-clients.appspot.com
@@ -399,7 +398,6 @@
 0.0.0.0 diem.diem--facebook.com
 0.0.0.0 down.diem--facebook.com
 0.0.0.0 www.diem--facebook.com
-0.0.0.0 facebook.com
 0.0.0.0 0.facebook.com
 0.0.0.0 m.0.facebook.com
 0.0.0.0 static.0.facebook.com

@@ -1,4 +1,3 @@
-!
 ! Title: No Google
 ! Description: Completely blocks all Google-related domains (including YouTube).
 ! Homepage: https://github.com/nickspaargaren/no-google
@@ -1430,7 +1429,6 @@
 ||goog.le^
 ||youtu.be^
 ||yt.be^
-||withyoutube.com^
 ||youtube-nocookie.com^
 ||youtube-noscript.com^
 ||youtube.be^

@@ -1655,7 +1655,6 @@
 ||g.cn^
 ||ggoogle.com^
 ||ggpht.com^
-||gmail.com^
 ||gmodules.com^
 ||gogle.com^
 ||gogole.com^

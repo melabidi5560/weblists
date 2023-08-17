@@ -351,7 +351,6 @@
 ||chromeenterprise.google^
 ||chromeexperiments.com^
 ||chromestatus.com^
-||chromium.org^
 ||ciu4squ6qg.com^
 ||ck101.page.link^
 ||ck9d5ok0ww.com^

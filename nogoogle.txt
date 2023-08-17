@@ -345,7 +345,6 @@
 ||cellular.nest.com^
 ||certified.nest.com^
 ||chisel-api.trial.nest.com^
-||chromebook.com^
 ||chromecast.com^
 ||chromeenterprise.google^
 ||chromeexperiments.com^

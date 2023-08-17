@@ -1541,7 +1541,6 @@
 ||ym1.page.link^
 ||yourchance2020.page.link^
 ||youtu.be^
-||youtube-nocookie.com^
 ||youtube-noscript.com^
 ||youtube.be^
 ||youtube.co.uk^

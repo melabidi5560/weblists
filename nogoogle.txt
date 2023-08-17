@@ -1486,7 +1486,6 @@
 ||widgets.nest.com^
 ||wintricksbanner.googlepages.com^
 ||withgoogle.com^
-||withyoutube.com^
 ||workswith.nest.com^
 ||wpgp9m68yu.com^
 ||wq4bmoaedv.com^
@@ -1541,7 +1540,6 @@
 ||ym1.page.link^
 ||yourchance2020.page.link^
 ||youtu.be^
-||youtube-noscript.com^
 ||youtube.be^
 ||youtube.co.uk^
 ||youtube.de^

@@ -830,3 +830,8 @@
 ||googledomains.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
+||googlepagecreator.com^
+||googlescholar.com^
+||googlesciencefair.com^
+||googlesource.com^
+||googlesucks.com^

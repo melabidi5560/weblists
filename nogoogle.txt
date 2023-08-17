@@ -835,3 +835,11 @@
 ||googlesciencefair.com^
 ||googlesource.com^
 ||googlesucks.com^
+||googlesyndication-cn.com^
+||googlesyndication.com^
+||googletagmanager-cn.com^
+||googletagmanager.com^
+||googletagservices.com^
+||googletranslate.com^
+||googletraveladservices.com^
+||googleusercontent.com^

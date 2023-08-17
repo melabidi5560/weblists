@@ -843,7 +843,6 @@
 ||googletranslate.com^
 ||googletraveladservices.com^
 ||googleusercontent.com^
-||googlevideo.com^
 ||googlew.com^
 ||googleweblight.com^
 ||googlezip.net^

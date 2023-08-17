@@ -810,3 +810,10 @@
 ||google.vg^
 ||google.vu^
 ||google.ws^
+||googleadservices-cn.com^
+||googleadservices.co.uk^
+||googleadservices.com^
+||googleadservices.org^
+||googleadservices.ru^
+||googleadsserving.cn^
+||googleanalytics.com^

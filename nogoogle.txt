@@ -817,3 +817,14 @@
 ||googleadservices.ru^
 ||googleadsserving.cn^
 ||googleanalytics.com^
+||googleapis.co^
+||googleapis.com^
+||googleapps.com^
+||googlearth.com^
+||googleblog.com^
+||googlebot.com^
+||googlecdn.org^
+||googlecloudpresscorner.com^
+||googlecode.com^
+||googlecommerce.com^
+||googledomains.com^

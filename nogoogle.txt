@@ -267,7 +267,6 @@
 ||app1.page.link^
 ||app1933.page.link^
 ||appassets.androidplatform.net^
-||appleofficial1.page.link^
 ||appliedsemantics.com^
 ||apps-weather.ftwest.nest.com^
 ||apps-weather.nest.com^

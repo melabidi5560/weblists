@@ -3925,7 +3925,6 @@
 ||de-de.ms-my.id-id.ro-ro.fbjs.facebook.com^
 ||de-de.ms-my.it-it.de-de.fbjs.facebook.com^
 ||de-de.ms-my.it-it.prod.facebook.com^
-||de-de.ms-my.microsoft-office-2007-service-pack-1.fbjs.facebook.com^
 ||de-de.ms-my.monolith.fbjs.facebook.com^
 ||de-de.ms-my.nb-no.developers.prod.facebook.com^
 ||de-de.ms-my.nl-nl.apps.fbjs.facebook.com^
@@ -8854,7 +8853,6 @@
 ||fr-ca.de-de.gb.lite.facebook.com^
 ||fr-ca.de-de.he-il.fbjs.facebook.com^
 ||fr-ca.de-de.ms-my.danerwin.fbjs.facebook.com^
-||fr-ca.de-de.ms-my.microsoft-office-2007-service-pack-1.fbjs.facebook.com^
 ||fr-ca.de-de.ms-my.pot7109.fbjs.facebook.com^
 ||fr-ca.de-de.ms-my.ssammi.fbjs.facebook.com^
 ||fr-ca.de-de.ms-my.sumadewiblog.fbjs.facebook.com^
@@ -15866,9 +15864,6 @@
 ||mi.messenger.com^
 ||microsite-edge-shv-01-bog1.facebook.com^
 ||microsite-edge-shv-02-pnq1.facebook.com^
-||microsoft-office-2007-service-pack-1.fbjs.facebook.com^
-||microsoft.facebook.com^
-||microsoft.m.facebook.com^
 ||midcity.messenger.com^
 ||middle-distance-classic.lite.facebook.com^
 ||middle-distance-classic.sv-se.ro-ro.fbjs.facebook.com^
@@ -16323,7 +16318,6 @@
 ||ms-my.m.m.lite.facebook.com^
 ||ms-my.m.prod.facebook.com^
 ||ms-my.messenger.com^
-||ms-my.microsoft-office-2007-service-pack-1.fbjs.facebook.com^
 ||ms-my.mobile.lite.facebook.com^
 ||ms-my.monolith.fbjs.facebook.com^
 ||ms-my.ms-my.de-de.fbjs.facebook.com^
@@ -25990,7 +25984,6 @@
 ||www.messengerplatform.fb.com^
 ||www.meta.com^
 ||www.mexico.fb.com^
-||www.microsoft.live.messenger.com^
 ||www.mirror.facebook.net^
 ||www.mk-mk.af-za.ro-ro.fbjs.facebook.com^
 ||www.mk-mk.bn-in.fbjs.facebook.com^

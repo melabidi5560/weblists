@@ -1,0 +1,7 @@
+||de-de.ms-my.microsoft-office-2007-service-pack-1.fbjs.facebook.com^
+||fr-ca.de-de.ms-my.microsoft-office-2007-service-pack-1.fbjs.facebook.com^
+||microsoft-office-2007-service-pack-1.fbjs.facebook.com^
+||microsoft.facebook.com^
+||microsoft.m.facebook.com^
+||ms-my.microsoft-office-2007-service-pack-1.fbjs.facebook.com^
+||www.microsoft.live.messenger.com^

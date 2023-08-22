@@ -1,259 +1,259 @@
-.ac
-.ad
-.ae
-.af
-.ag
-.ai
-.al
-.am
-.an
-.ao
-.aq
-.ar
-.as
-.at
-.au
-.aw
-.ax
-.az
-.ba
-.bb
-.bd
-.be
-.bf
-.bg
-.bh
-.bi
-.bj
-.bl
-.bm
-.bn
-.bo
-.bq
-.br
-.bs
-.bt
-.bv
-.bw
-.by
-.bz
-.ca
-.cc
-.cd
-.cf
-.cg
-.ch
-.ci
-.ck
-.cl
-.cm
-.cn
-.co
-.cr
-.cs
-.cu
-.cv
-.cw
-.cx
-.cy
-.cz
-.dd
-.de
-.dj
-.dk
-.dm
-.do
-.dz
-.ec
-.ee
-.eg
-.eh
-.er
-.es
-.et
-.eu
-.fi
-.fj
-.fk
-.fm
-.fo
-.fr
-.ga
-.gb
-.gd
-.ge
-.gf
-.gg
-.gh
-.gi
-.gl
-.gm
-.gn
-.gp
-.gq
-.gr
-.gs
-.gt
-.gu
-.gw
-.gy
-.hk
-.hm
-.hn
-.hr
-.ht
-.hu
-.id
-.ie
-.il
-.im
-.in
-.io
-.iq
-.ir
-.is
-.it
-.je
-.jm
-.jo
-.jp
-.ke
-.kg
-.kh
-.ki
-.km
-.kn
-.kp
-.kr
-.kw
-.ky
-.kz
-.la
-.lb
-.lc
-.li
-.lk
-.lr
-.ls
-.lt
-.lu
-.lv
-.ly
-.ma
-.mc
-.md
-.me
-.mf
-.mg
-.mh
-.mk
-.ml
-.mm
-.mn
-.mo
-.mp
-.mq
-.mr
-.ms
-.mt
-.mu
-.mv
-.mw
-.mx
-.my
-.mz
-.na
-.nc
-.ne
-.nf
-.ng
-.ni
-.nl
-.no
-.np
-.nr
-.nu
-.nz
-.om
-.pa
-.pe
-.pf
-.pg
-.ph
-.pk
-.pl
-.pm
-.pn
-.pr
-.ps
-.pt
-.pw
-.py
-.qa
-.re
-.ro
-.rs
-.ru
-.rw
-.sa
-.sb
-.sc
-.sd
-.se
-.sg
-.sh
-.si
-.sj
-.sk
-.sl
-.sm
-.sn
-.so
-.sr
-.ss
-.st
-.su
-.sv
-.sx
-.sy
-.sz
-.tc
-.td
-.tf
-.tg
-.th
-.tj
-.tk
-.tl
-.tm
-.tn
-.to
-.tp
-.tr
-.tt
-.tv
-.tw
-.tz
-.ua
-.ug
-.uk
-.um
-.us
-.uy
-.uz
-.va
-.vc
-.ve
-.vg
-.vi
-.vn
-.vu
-.wf
-.ws
-.ye
-.yt
-.yu
-.za
-.zm
-.zr
-.zw
+0.0.0.0 whatsapp.ac
+0.0.0.0 whatsapp.ad
+0.0.0.0 whatsapp.ae
+0.0.0.0 whatsapp.af
+0.0.0.0 whatsapp.ag
+0.0.0.0 whatsapp.ai
+0.0.0.0 whatsapp.al
+0.0.0.0 whatsapp.am
+0.0.0.0 whatsapp.an
+0.0.0.0 whatsapp.ao
+0.0.0.0 whatsapp.aq
+0.0.0.0 whatsapp.ar
+0.0.0.0 whatsapp.as
+0.0.0.0 whatsapp.at
+0.0.0.0 whatsapp.au
+0.0.0.0 whatsapp.aw
+0.0.0.0 whatsapp.ax
+0.0.0.0 whatsapp.az
+0.0.0.0 whatsapp.ba
+0.0.0.0 whatsapp.bb
+0.0.0.0 whatsapp.bd
+0.0.0.0 whatsapp.be
+0.0.0.0 whatsapp.bf
+0.0.0.0 whatsapp.bg
+0.0.0.0 whatsapp.bh
+0.0.0.0 whatsapp.bi
+0.0.0.0 whatsapp.bj
+0.0.0.0 whatsapp.bl
+0.0.0.0 whatsapp.bm
+0.0.0.0 whatsapp.bn
+0.0.0.0 whatsapp.bo
+0.0.0.0 whatsapp.bq
+0.0.0.0 whatsapp.br
+0.0.0.0 whatsapp.bs
+0.0.0.0 whatsapp.bt
+0.0.0.0 whatsapp.bv
+0.0.0.0 whatsapp.bw
+0.0.0.0 whatsapp.by
+0.0.0.0 whatsapp.bz
+0.0.0.0 whatsapp.ca
+0.0.0.0 whatsapp.cc
+0.0.0.0 whatsapp.cd
+0.0.0.0 whatsapp.cf
+0.0.0.0 whatsapp.cg
+0.0.0.0 whatsapp.ch
+0.0.0.0 whatsapp.ci
+0.0.0.0 whatsapp.ck
+0.0.0.0 whatsapp.cl
+0.0.0.0 whatsapp.cm
+0.0.0.0 whatsapp.cn
+0.0.0.0 whatsapp.co
+0.0.0.0 whatsapp.cr
+0.0.0.0 whatsapp.cs
+0.0.0.0 whatsapp.cu
+0.0.0.0 whatsapp.cv
+0.0.0.0 whatsapp.cw
+0.0.0.0 whatsapp.cx
+0.0.0.0 whatsapp.cy
+0.0.0.0 whatsapp.cz
+0.0.0.0 whatsapp.dd
+0.0.0.0 whatsapp.de
+0.0.0.0 whatsapp.dj
+0.0.0.0 whatsapp.dk
+0.0.0.0 whatsapp.dm
+0.0.0.0 whatsapp.do
+0.0.0.0 whatsapp.dz
+0.0.0.0 whatsapp.ec
+0.0.0.0 whatsapp.ee
+0.0.0.0 whatsapp.eg
+0.0.0.0 whatsapp.eh
+0.0.0.0 whatsapp.er
+0.0.0.0 whatsapp.es
+0.0.0.0 whatsapp.et
+0.0.0.0 whatsapp.eu
+0.0.0.0 whatsapp.fi
+0.0.0.0 whatsapp.fj
+0.0.0.0 whatsapp.fk
+0.0.0.0 whatsapp.fm
+0.0.0.0 whatsapp.fo
+0.0.0.0 whatsapp.fr
+0.0.0.0 whatsapp.ga
+0.0.0.0 whatsapp.gb
+0.0.0.0 whatsapp.gd
+0.0.0.0 whatsapp.ge
+0.0.0.0 whatsapp.gf
+0.0.0.0 whatsapp.gg
+0.0.0.0 whatsapp.gh
+0.0.0.0 whatsapp.gi
+0.0.0.0 whatsapp.gl
+0.0.0.0 whatsapp.gm
+0.0.0.0 whatsapp.gn
+0.0.0.0 whatsapp.gp
+0.0.0.0 whatsapp.gq
+0.0.0.0 whatsapp.gr
+0.0.0.0 whatsapp.gs
+0.0.0.0 whatsapp.gt
+0.0.0.0 whatsapp.gu
+0.0.0.0 whatsapp.gw
+0.0.0.0 whatsapp.gy
+0.0.0.0 whatsapp.hk
+0.0.0.0 whatsapp.hm
+0.0.0.0 whatsapp.hn
+0.0.0.0 whatsapp.hr
+0.0.0.0 whatsapp.ht
+0.0.0.0 whatsapp.hu
+0.0.0.0 whatsapp.id
+0.0.0.0 whatsapp.ie
+0.0.0.0 whatsapp.il
+0.0.0.0 whatsapp.im
+0.0.0.0 whatsapp.in
+0.0.0.0 whatsapp.io
+0.0.0.0 whatsapp.iq
+0.0.0.0 whatsapp.ir
+0.0.0.0 whatsapp.is
+0.0.0.0 whatsapp.it
+0.0.0.0 whatsapp.je
+0.0.0.0 whatsapp.jm
+0.0.0.0 whatsapp.jo
+0.0.0.0 whatsapp.jp
+0.0.0.0 whatsapp.ke
+0.0.0.0 whatsapp.kg
+0.0.0.0 whatsapp.kh
+0.0.0.0 whatsapp.ki
+0.0.0.0 whatsapp.km
+0.0.0.0 whatsapp.kn
+0.0.0.0 whatsapp.kp
+0.0.0.0 whatsapp.kr
+0.0.0.0 whatsapp.kw
+0.0.0.0 whatsapp.ky
+0.0.0.0 whatsapp.kz
+0.0.0.0 whatsapp.la
+0.0.0.0 whatsapp.lb
+0.0.0.0 whatsapp.lc
+0.0.0.0 whatsapp.li
+0.0.0.0 whatsapp.lk
+0.0.0.0 whatsapp.lr
+0.0.0.0 whatsapp.ls
+0.0.0.0 whatsapp.lt
+0.0.0.0 whatsapp.lu
+0.0.0.0 whatsapp.lv
+0.0.0.0 whatsapp.ly
+0.0.0.0 whatsapp.ma
+0.0.0.0 whatsapp.mc
+0.0.0.0 whatsapp.md
+0.0.0.0 whatsapp.me
+0.0.0.0 whatsapp.mf
+0.0.0.0 whatsapp.mg
+0.0.0.0 whatsapp.mh
+0.0.0.0 whatsapp.mk
+0.0.0.0 whatsapp.ml
+0.0.0.0 whatsapp.mm
+0.0.0.0 whatsapp.mn
+0.0.0.0 whatsapp.mo
+0.0.0.0 whatsapp.mp
+0.0.0.0 whatsapp.mq
+0.0.0.0 whatsapp.mr
+0.0.0.0 whatsapp.ms
+0.0.0.0 whatsapp.mt
+0.0.0.0 whatsapp.mu
+0.0.0.0 whatsapp.mv
+0.0.0.0 whatsapp.mw
+0.0.0.0 whatsapp.mx
+0.0.0.0 whatsapp.my
+0.0.0.0 whatsapp.mz
+0.0.0.0 whatsapp.na
+0.0.0.0 whatsapp.nc
+0.0.0.0 whatsapp.ne
+0.0.0.0 whatsapp.nf
+0.0.0.0 whatsapp.ng
+0.0.0.0 whatsapp.ni
+0.0.0.0 whatsapp.nl
+0.0.0.0 whatsapp.no
+0.0.0.0 whatsapp.np
+0.0.0.0 whatsapp.nr
+0.0.0.0 whatsapp.nu
+0.0.0.0 whatsapp.nz
+0.0.0.0 whatsapp.om
+0.0.0.0 whatsapp.pa
+0.0.0.0 whatsapp.pe
+0.0.0.0 whatsapp.pf
+0.0.0.0 whatsapp.pg
+0.0.0.0 whatsapp.ph
+0.0.0.0 whatsapp.pk
+0.0.0.0 whatsapp.pl
+0.0.0.0 whatsapp.pm
+0.0.0.0 whatsapp.pn
+0.0.0.0 whatsapp.pr
+0.0.0.0 whatsapp.ps
+0.0.0.0 whatsapp.pt
+0.0.0.0 whatsapp.pw
+0.0.0.0 whatsapp.py
+0.0.0.0 whatsapp.qa
+0.0.0.0 whatsapp.re
+0.0.0.0 whatsapp.ro
+0.0.0.0 whatsapp.rs
+0.0.0.0 whatsapp.ru
+0.0.0.0 whatsapp.rw
+0.0.0.0 whatsapp.sa
+0.0.0.0 whatsapp.sb
+0.0.0.0 whatsapp.sc
+0.0.0.0 whatsapp.sd
+0.0.0.0 whatsapp.se
+0.0.0.0 whatsapp.sg
+0.0.0.0 whatsapp.sh
+0.0.0.0 whatsapp.si
+0.0.0.0 whatsapp.sj
+0.0.0.0 whatsapp.sk
+0.0.0.0 whatsapp.sl
+0.0.0.0 whatsapp.sm
+0.0.0.0 whatsapp.sn
+0.0.0.0 whatsapp.so
+0.0.0.0 whatsapp.sr
+0.0.0.0 whatsapp.ss
+0.0.0.0 whatsapp.st
+0.0.0.0 whatsapp.su
+0.0.0.0 whatsapp.sv
+0.0.0.0 whatsapp.sx
+0.0.0.0 whatsapp.sy
+0.0.0.0 whatsapp.sz
+0.0.0.0 whatsapp.tc
+0.0.0.0 whatsapp.td
+0.0.0.0 whatsapp.tf
+0.0.0.0 whatsapp.tg
+0.0.0.0 whatsapp.th
+0.0.0.0 whatsapp.tj
+0.0.0.0 whatsapp.tk
+0.0.0.0 whatsapp.tl
+0.0.0.0 whatsapp.tm
+0.0.0.0 whatsapp.tn
+0.0.0.0 whatsapp.to
+0.0.0.0 whatsapp.tp
+0.0.0.0 whatsapp.tr
+0.0.0.0 whatsapp.tt
+0.0.0.0 whatsapp.tv
+0.0.0.0 whatsapp.tw
+0.0.0.0 whatsapp.tz
+0.0.0.0 whatsapp.ua
+0.0.0.0 whatsapp.ug
+0.0.0.0 whatsapp.uk
+0.0.0.0 whatsapp.um
+0.0.0.0 whatsapp.us
+0.0.0.0 whatsapp.uy
+0.0.0.0 whatsapp.uz
+0.0.0.0 whatsapp.va
+0.0.0.0 whatsapp.vc
+0.0.0.0 whatsapp.ve
+0.0.0.0 whatsapp.vg
+0.0.0.0 whatsapp.vi
+0.0.0.0 whatsapp.vn
+0.0.0.0 whatsapp.vu
+0.0.0.0 whatsapp.wf
+0.0.0.0 whatsapp.ws
+0.0.0.0 whatsapp.ye
+0.0.0.0 whatsapp.yt
+0.0.0.0 whatsapp.yu
+0.0.0.0 whatsapp.za
+0.0.0.0 whatsapp.zm
+0.0.0.0 whatsapp.zr
+0.0.0.0 whatsapp.zw

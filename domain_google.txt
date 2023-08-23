@@ -353,7 +353,6 @@
 0.0.0.0 google.COFFEE
 0.0.0.0 google.COLLEGE
 0.0.0.0 google.COLOGNE
-0.0.0.0 google.COM
 0.0.0.0 google.COM.AR
 0.0.0.0 google.COM.AU
 0.0.0.0 google.COM.SB

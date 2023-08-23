@@ -353,7 +353,6 @@
 0.0.0.0 whatsapp.COFFEE
 0.0.0.0 whatsapp.COLLEGE
 0.0.0.0 whatsapp.COLOGNE
-0.0.0.0 whatsapp.COM
 0.0.0.0 whatsapp.COM.AR
 0.0.0.0 whatsapp.COM.AU
 0.0.0.0 whatsapp.COM.SB

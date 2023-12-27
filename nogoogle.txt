@@ -105815,7 +105815,6 @@ zw.googletagmanager.com
 ||mail.gmaille.com^
 ||mail.gmailmaps.com^
 ||mail.gmailol.com^
-||mail.google.com.domain.name
 ||mail.google.gr.com
 ||mail.googledrie.com
 ||mail.googlemaail.com

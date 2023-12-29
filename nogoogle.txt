@@ -992,7 +992,6 @@ cdn-google-eu.com
 cdn-google.info
 cdn-google.net
 cdn-google.site
-cdn-googleapi.com
 cdn-googleservice.com
 cdn-prod-asia-spoz1-google.spotad.co
 cdn-prod-useast-spoz1-google.spotad.co
@@ -1252,7 +1251,6 @@ font-google.org.za
 font-google.web.za
 fontgoogleapis.com
 fonts-googleapi.com
-fonts-googlemaps.com
 fonts.google2.accounts-secure.gq
 fonts.googleapis.com
 fontsgoogle-api.com
@@ -105489,14 +105487,9 @@ zw.googletagmanager.com
 ||googletagservices.com.domain.name
 ||googletagservices.com^
 ||googletrad.com
-||googletranslate.com^
-||googletraveladservices.com^
-||googleusercontent.com.domain.name
-||googleusercontent.com^
 ||googlevads-cn.com^
 ||googlevedio.com
 ||googlevideo.com.domain.name
-||googlevideo.com^
 ||googlevideosx.com
 ||googlew.com^
 ||googlewar.go.pl

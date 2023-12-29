@@ -105515,7 +105515,6 @@ zw.googletagmanager.com
 ||grouperg.frgmail.com^
 ||grow.google^
 ||gseacnw61z.com^
-||gstatic.com^
 ||gstatic.net^
 ||gstatic.org^
 ||gstaticadssl.l..com^

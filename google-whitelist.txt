@@ -1,0 +1,76 @@
+# Google Search
+google.com
+www.google.com
+accounts.google.com
+account.google.com
+apis.google.com
+clients.google.com
+client1.google.com
+client2.google.com
+client3.google.com
+client4.google.com
+client5.google.com
+
+# Gmail
+gmail.com
+mail.google.com
+gmail.google.com
+accounts.google.com
+account.google.com
+accounts.gstatic.com
+ssl.gstatic.com
+
+# YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+music.youtube.com
+youtube.googleapis.com
+youtubei.googleapis.com
+googlevideo.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+
+# Android core services
+android.com
+www.android.com
+android.clients.google.com
+android.googleapis.com
+clientservices.googleapis.com
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
+securetoken.googleapis.com
+mtalk.google.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
+gcm.googleapis.com
+fcm.googleapis.com
+fcmconnection.googleapis.com
+fcm-xmpp.googleapis.com
+gcm-xmpp.googleapis.com
+play.googleapis.com
+
+# Google Play
+play.google.com
+market.android.com
+play-lh.googleusercontent.com
+play-fe.googleapis.com
+playstoregatewayadapter-pa.googleapis.com
+prod-lt-playstoregatewayadapter-pa.googleapis.com
+
+# Shared Google infrastructure required by many services
+googleapis.com
+www.googleapis.com
+gstatic.com
+www.gstatic.com
+ssl.gstatic.com
+googleusercontent.com
+googlehosted.com
+googlehosted.l.googleusercontent.com
